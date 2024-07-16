@@ -1,0 +1,29 @@
+.leaflet-container {
+  height: 100%;
+  width: 100%;
+}
+
+.leaflet-tooltip {
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  transform: none;
+  color: #000;
+  text-shadow: 2px 1px 5px rgb(255, 255, 255);
+}
+
+.leaflet-tooltip-left::before,
+.leaflet-tooltip-right::before {
+  border: 0;
+}
+
+.debug-coords {
+  background-color: black;
+  color: white;
+  font: bold 12px sans-serif;
+  padding: 0.5em;
+}
+
+#main-map-container {
+  background-color: #222;
+}

@@ -1,0 +1,12 @@
+---
+import { Container } from "react-bootstrap";
+import Layout from "../layouts/Layout.astro";
+import ItemsList from "../components/map/ItemsList";
+---
+
+<Layout title={"DD2 Cheatheet - Checklist"}>
+  <Container>
+    <h1>Checklist</h1>
+    <ItemsList client:load />
+  </Container>
+</Layout>

@@ -1,19 +1,24 @@
 ---
+import { Container, ListGroup } from "react-bootstrap";
 import Layout from "../layouts/Layout.astro";
+import { BASE_URL } from "../utils/consts";
 ---
 
-<Layout title={"Hello"}>
-  <div class="hello d-flex flex-column min-vh-100 min-vw-100">
-    <div class="d-flex flex-grow-1 justify-content-center align-items-center">
-      <h1>Hello from Astro! 👋</h1>
-    </div>
-  </div>
+<Layout title={"DD2 Cheatheet"}>
+  <Container>
+    <h1>DD2 Cheatheet</h1>
+    <p>
+      Checklist for Dragons Dogma 2. Tracks the progress of your items and
+      quests.
+    </p>
+    <h2>Content:</h2>
+    <ListGroup>
+      <ListGroup.Item>
+        <a href={BASE_URL + "/map"}>World Map</a>
+      </ListGroup.Item>
+      <ListGroup.Item>
+        <a href={BASE_URL + "/checklist"}>Checklist</a>
+      </ListGroup.Item>
+    </ListGroup>
+  </Container>
 </Layout>
-
-<style>
-  .hello {
-    background: #333;
-    background-size: 224px;
-    color: #ddd;
-  }
-</style>

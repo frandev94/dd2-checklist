@@ -7,4 +7,7 @@ import { defineConfig } from "astro/config";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
+  site: "https://frandev94.github.io",
+  base: "dd2-checklist",
+  trailingSlash: "ignore",
 });
