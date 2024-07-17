@@ -1,5 +1,5 @@
 function CategoryFilter() {
-  return <div>CategoryFilter</div>
+  return <div>TODO: CategoryFilter</div>
 }
 
 export default CategoryFilter

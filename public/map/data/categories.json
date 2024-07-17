@@ -2,163 +2,163 @@
   {
     "id": "Armor",
     "name": "Armor",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/armor-chest.png",
+    "image": "/map/images/armor-chest.png",
     "loadDefault": false
   },
   {
     "id": "Beetles",
     "name": "Beetles",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/golden-scarab.png",
+    "image": "/map/images/golden-scarab.png",
     "loadDefault": false
   },
   {
     "id": "Benches",
     "name": "Benches",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon26.png",
+    "image": "/map/images/map_icon26.png",
     "loadDefault": false
   },
   {
     "id": "Campsite",
     "name": "Campsite",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon21.png",
+    "image": "/map/images/map_icon21.png",
     "loadDefault": false
   },
   {
     "id": "Caves",
     "name": "Caves",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon27.png",
+    "image": "/map/images/map_icon27.png",
     "loadDefault": false
   },
   {
     "id": "Chests",
     "name": "Chests",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/special-chest.png",
+    "image": "/map/images/special-chest.png",
     "loadDefault": false
   },
   {
     "id": "Cloaks",
     "name": "Cloaks",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/cloaks.png",
+    "image": "/map/images/cloaks.png",
     "loadDefault": false
   },
   {
     "id": "Curatives",
     "name": "Curatives",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/potions.png",
+    "image": "/map/images/potions.png",
     "loadDefault": false
   },
   {
     "id": "ForgottenRiftstones",
     "name": "Forgotten Riftstones",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon28.png",
+    "image": "/map/images/map_icon28.png",
     "loadDefault": false
   },
   {
     "id": "Implements",
     "name": "Implements",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/implements.png",
+    "image": "/map/images/implements.png",
     "loadDefault": false
   },
   {
     "id": "Inns",
     "name": "Inns",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon50.png",
+    "image": "/map/images/map_icon50.png",
     "loadDefault": false
   },
   {
     "id": "Locations",
     "name": "Locations",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon24.png",
+    "image": "/map/images/map_icon24.png",
     "loadDefault": true
   },
   {
     "id": "MainQuest",
     "name": "Main Quest",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon32.png",
+    "image": "/map/images/map_icon32.png",
     "loadDefault": false
   },
   {
     "id": "Maisters",
     "name": "Maisters",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon31.png",
+    "image": "/map/images/map_icon31.png",
     "loadDefault": false
   },
   {
     "id": "Materials",
     "name": "Materials",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon30.png",
+    "image": "/map/images/map_icon30.png",
     "loadDefault": false
   },
   {
     "id": "Merchants",
     "name": "Merchants",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon10.png",
+    "image": "/map/images/map_icon10.png",
     "loadDefault": false
   },
   {
     "id": "Monsters",
     "name": "Monsters",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon43.png",
+    "image": "/map/images/map_icon43.png",
     "loadDefault": false
   },
   {
     "id": "Portcrystals",
     "name": "Portcrystals",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon51.png",
+    "image": "/map/images/map_icon51.png",
     "loadDefault": false
   },
   {
     "id": "Riftstones",
     "name": "Riftstones",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon07.png",
+    "image": "/map/images/map_icon07.png",
     "loadDefault": false
   },
   {
     "id": "Rings",
     "name": "Rings",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/rings.png",
+    "image": "/map/images/rings.png",
     "loadDefault": false
   },
   {
     "id": "SeekersToken",
     "name": "Seekers Token",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/seekers-token.png",
+    "image": "/map/images/seekers-token.png",
     "loadDefault": false
   },
   {
     "id": "Shields",
     "name": "Shields",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/shields.png",
+    "image": "/map/images/shields.png",
     "loadDefault": false
   },
   {
     "id": "SideQuest",
     "name": "Side Quest",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon33.png",
+    "image": "/map/images/map_icon33.png",
     "loadDefault": false
   },
   {
     "id": "Valuables",
     "name": "Valuables",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/valuables.png",
+    "image": "/map/images/valuables.png",
     "loadDefault": false
   },
   {
     "id": "WakestoneShards",
     "name": "Wakestone Shards",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/map_icon44.png",
+    "image": "/map/images/map_icon44.png",
     "loadDefault": false
   },
   {
     "id": "Weapons",
     "name": "Weapons",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/weapons.png",
+    "image": "/map/images/weapons.png",
     "loadDefault": false
   },
   {
     "id": "ZoneQuests",
     "name": "Zone Quests",
-    "image": "https://dragonsdogma2.wiki.fextralife.com/file/Dragons-Dogma-2/map-images/zone-quests.png",
+    "image": "/map/images/zone-quests.png",
     "loadDefault": false
   }
 ]
